@@ -1,7 +1,7 @@
 # Marvelous Node.js Express API
 
 ![Project Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
-![Project Logo]()
+![Project Logo](https://upload.wikimedia.org/wikipedia/en/5/5a/MongoDB_Fores-Green.svg)
 
 Welcome to the Marvelous Node.js Express API project! This repository houses a powerful RESTful API built with Node.js, Express, MongoDB, and incorporating user authentication.
 
